@@ -1,0 +1,13 @@
+Item,Quantity,Status,Price USD,Notes,URL
+ESP32-CH340C-Type-C,1,Buy,5.03,Main controller,https://www.aliexpress.com/item/1005008723399881.html
+1000uF 50V Electrolytic Capacitors,5,Buy,2.22,Servo power smoothing,https://www.aliexpress.com/item/1005005920255833.html
+M2 Hex Socket Button Head Screw Kit,1,Buy,6.99,Arm assembly,https://www.aliexpress.com/item/1005007278965396.html
+DS228/DS428 12mm Green Momentary Pushbuttons,6,Buy,3.25,Physical controls,https://www.aliexpress.com/item/1005008558481882.html
+28BYJ-48 5V Stepper Motor,1,Owned,0.00,Rotates the base,
+ULN2003 Stepper Driver Board,1,Owned,0.00,Drives the 28BYJ-48,
+9g Servo,4,Owned,0.00,Shoulder elbow wrist and clamp,
+10k Potentiometer,3,Owned,0.00,Manual arm controls,
+Limit Switch,1,Owned,0.00,Base homing,
+10k Resistor,1,Owned,0.00,Limit switch pull-up,
+Order Import Charges,1,Buy,16.93,Estimated import charges,
+TOTAL,,,34.30,Final checkout total,
