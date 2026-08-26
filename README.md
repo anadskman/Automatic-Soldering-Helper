@@ -184,4 +184,4 @@ The main thing now is getting the final parts and putting everything together pr
 
 | Schematic | PCB | Case |
 | --- | --- | --- |
-| ![Schematic](https://github.com/user-attachments/assets/202e61b8-0b45-475a-8b2f-f29bcf091b24) | ![PCB](https://github.com/user-attachments/assets/575f32cb-42c5-48bb-a548-4b77e24fa8b1) | ![Case](https://github.com/user-attachments/assets/3e57d8ae-40e9-44c5-b045-906e9adf2c27) |
+| ![Schematic](Images/schematic.png) | ![PCB](Images/pcb.png) | ![Case](Images/case.png) |
