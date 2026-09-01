@@ -1,5 +1,8 @@
 # Automatic Soldering Helper
 
+<img width="1032" height="996" alt="image" src="https://github.com/user-attachments/assets/c24ae129-c4fc-4962-b79c-eab8d9430d67" />
+
+
 A small robot arm that can help hold wires, PCBs and other parts while I'm soldering.
 
 I wanted to make something like a motorised helping hand that I can move around with buttons instead of having to keep adjusting normal helping hands every time.
@@ -184,4 +187,4 @@ The main thing now is getting the final parts and putting everything together pr
 
 | Schematic | PCB | Case |
 | --- | --- | --- |
-| ![Schematic](https://github.com/user-attachments/assets/202e61b8-0b45-475a-8b2f-f29bcf091b24) | ![PCB](https://github.com/user-attachments/assets/575f32cb-42c5-48bb-a548-4b77e24fa8b1) | ![Case](https://github.com/user-attachments/assets/3e57d8ae-40e9-44c5-b045-906e9adf2c27) |
+| ![Schematic](Images/schematic.png) | ![PCB](Images/pcb.png) | ![Case](Images/case.png) |
